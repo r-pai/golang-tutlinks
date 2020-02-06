@@ -21,6 +21,6 @@ Golang tutorail links which was helpful for my golang journey
   - [Tutlink-Part2](https://aaf.engineering/go-web-application-structure-pt-1/)
   - [Tutlink-Part3](https://aaf.engineering/go-web-application-structure-part-3/)
   - Part4 Comming Soon
-- GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps [link](https://www.youtube.com/watch?v=oL6JBUk6tj0)
+- GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps [link](https://www.youtube.com/watch?v=oL6JBUk6tj0) [github](https://github.com/katzien/go-structure-examples)
 - Go app template build environment [github](https://github.com/thockin/go-build-template)
 
