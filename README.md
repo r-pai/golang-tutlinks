@@ -12,7 +12,7 @@ Golang tutorail links which was helpful for my golang journey
   - This is a good tutorial for beginners for golang 
 
 ### Naming Convention
-https://talks.golang.org/2014/names.slide#1
+- https://talks.golang.org/2014/names.slide#1
 
 ### Structure your go Apps
 
